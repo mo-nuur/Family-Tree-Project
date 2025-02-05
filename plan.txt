@@ -1,0 +1,7 @@
+List of stuff for the program:
+
+    1. User Input will be dynamic. Add a member after choosing one of the buttons.
+        They should also be able to drag and drop any person around in order to rearrange the family tree however they like
+    2. UI framework options: Tkinter, pyqt, pyside, kivy
+    3. Have the ability to add profile pictures/images for people that the user chooses
+    4. The family tree will be visible the whole time and will grow as the user chooses to add more members.
